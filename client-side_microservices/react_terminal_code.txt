@@ -1,0 +1,5 @@
+npm install --save axios //axios isimli istemci paketi kurar.
+npm install --save react-router-dom //rotalama yapan yani yönlendirme yapan paketi kurar.
+npm install bootstrap jquery popper.js --save //bootstrap, jquery, popper.js isimli paketleri kurar.!
+npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome //3 paketide kurar
+npm start //react uygulamasını ayağa kaldırır.!
